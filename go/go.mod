@@ -1,4 +1,4 @@
-module github.com/zondax/ledger-odyssey-go
+module github.com/DioneProtocol/ledger-odyssey/go
 
 go 1.19
 
